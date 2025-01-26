@@ -7,7 +7,7 @@ export const links = [
     icon: Newspaper,
   },
   {
-    title: "task",
+    title: "Task",
     url: "/task",
     icon: LaptopMinimalCheck,
   },
