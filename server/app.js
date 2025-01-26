@@ -36,5 +36,5 @@ app.use("/api/feed", feedRouter);
 app.use(handleApiError);
 
 app.listen(port, () => {
-  console.log(`listening on port http://localhost:${port}`);
+  console.log(`listening on port: ${port}`);
 });
